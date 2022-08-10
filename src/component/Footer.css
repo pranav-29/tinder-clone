@@ -1,0 +1,37 @@
+.footer-icons{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    position: fixed;
+    bottom: 40px;
+}
+
+.footer-icons .replay{
+    padding: 3vw !important;
+    color: rgb(88, 88, 246);
+    box-shadow: 0PX 10PX 40PX 0PX rgba(0,0,0,0.3);
+}
+
+.footer-icons .close{
+    padding: 3vw !important;
+    color: rgb(219, 99, 29);
+    box-shadow: 0PX 10PX 40PX 0PX rgba(0,0,0,0.3);
+}
+
+.footer-icons .star{
+    padding: 3vw !important;
+    color: rgb(224, 194, 20);
+    box-shadow: 0PX 10PX 40PX 0PX rgba(0,0,0,0.3);
+}
+
+.footer-icons .favorite{
+    padding: 3vw !important;
+    color: red;
+    box-shadow: 0PX 10PX 40PX 0PX rgba(0,0,0,0.3);
+}
+
+.footer-icons .flash{
+    padding: 3vw !important;
+    color: rgb(98, 247, 250);
+    box-shadow: 0PX 10PX 40PX 0PX rgba(0,0,0,0.3);
+}
