@@ -11,7 +11,9 @@ function Header() {
             <PersonIcon fontSize='large' />
     </IconButton>
     
-    <img src='https://www.logo.wine/a/logo/Tinder_(app)/Tinder_(app)-Flame-Logo.wine.svg'/>
+    <img src='https://www.logo.wine/a/logo/Tinder_(app)/Tinder_(app)-Flame-Logo.wine.svg'
+    alt='icon'
+    />
     
     <IconButton className='tinder-icons' fontSize='large'>
          <ForumIcon fontSize='large' />

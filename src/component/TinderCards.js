@@ -4,7 +4,7 @@ import './TinderCards.css'
 
 function TinderCards() {
 
-    const [marvel, setMarvel] = React.useState ([
+    const [marvel] = React.useState ([
 
         {
             name: 'Marvel Heros',
